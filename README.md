@@ -6,3 +6,4 @@
 tanushac/tanushac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Postman API](https://api.badgr.io/public/assertions/nywUIKxgSi6ySqEz7yhy0w/image)]
