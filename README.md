@@ -20,5 +20,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=tanushachoudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 ---
 [![](https://visitcount.itsvg.in/api?id=tanushachoudhary&icon=7&color=6)](https://visitcount.itsvg.in)
+ 
+## Visitors 👀  
+![Visitor Count](https://profile-counter.glitch.me/tanushachoudhary/count.svg)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
