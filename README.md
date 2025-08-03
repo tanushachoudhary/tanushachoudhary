@@ -41,6 +41,6 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanushachoudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 ---
-
+![Visitor Count](https://profile-counter.glitch.me/tanushachoudhary/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
