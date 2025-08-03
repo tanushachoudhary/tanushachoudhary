@@ -41,6 +41,6 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanushachoudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanushachoudhary&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushachoudhary&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
